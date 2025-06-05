@@ -1,8 +1,6 @@
 0.0.0.0 friv.com
-0.0.0.0 https://www.friv.com/
 0.0.0.0 poki.com
 0.0.0.0 frivclassic.com
-0.0.0.0 https://www.frivclassic.com/
 0.0.0.0 crazygames.com
-0.0.0.0 https://www.crazygames.com
-0.0.0.0 https://www.crazygames.com/es/
+0.0.0.0 crazygames.com
+0.0.0.0 crazygames.com/es/
